@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
-- 🤝 I’m looking for help with **problems related to software develpoment**
+- 🤝 I’m looking for help with **problems related to software development**
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, React, Redux, React router, Material ui, Node js, Express js, MongoDB**
 
