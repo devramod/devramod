@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramod</h1>
-<h3 align="center">A Passionate Mobile App Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Android App Developer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **Android Application Development**
 
