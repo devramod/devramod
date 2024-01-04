@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Android development projects**
 
-- 🤝 I’m looking for help with **problems related to mobile development**
+- 🤝 I’m looking for help with **problems related to android development**
 
 - 💬 Ask me about **Java, Kotlin, C++, Android SDK, Android NDK, Firebase, Cloud Functions**
 
